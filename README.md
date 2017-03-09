@@ -1,2 +1,2 @@
-# tulip-
+# tulip
 CNN for Sentiment Analysis
